@@ -25,7 +25,7 @@ const reservedDisplay = document.getElementById('reserved-seat');
 let selectedTickets = 0;
 let totalPrice = 0;
 let seat = 0; 
-let reservedSeat =0;
+let reservedSeat =40;
 for (let index = 0; index < tickets.length; index++) {
     const ticket = tickets[index];
 
