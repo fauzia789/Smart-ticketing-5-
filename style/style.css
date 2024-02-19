@@ -3,3 +3,15 @@
 .raleway {
   font-family: "Raleway", sans-serif;
 }
+
+/* .ticket-container {
+  display: inline-block;
+} */
+
+.ticket-container h1,
+.ticket-container h2,
+.ticket-container h3 {
+    display: inline-block;
+    margin-right: 50px; 
+    margin-left: 50px;
+}
